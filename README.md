@@ -7,7 +7,8 @@
 </div>
  
  <br>
- 
+
+SOCIAL
 
   <a href="https://www.linkedin.com/in/vitória-e-264825191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
